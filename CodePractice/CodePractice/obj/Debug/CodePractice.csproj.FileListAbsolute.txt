@@ -1,0 +1,15 @@
+c:\users\dwebber\documents\visual studio 2015\Projects\CodePractice\CodePractice\bin\Debug\CodePractice.exe.config
+c:\users\dwebber\documents\visual studio 2015\Projects\CodePractice\CodePractice\bin\Debug\CodePractice.exe
+c:\users\dwebber\documents\visual studio 2015\Projects\CodePractice\CodePractice\bin\Debug\CodePractice.pdb
+c:\users\dwebber\documents\visual studio 2015\Projects\CodePractice\CodePractice\obj\Debug\CodePractice.csprojResolveAssemblyReference.cache
+c:\users\dwebber\documents\visual studio 2015\Projects\CodePractice\CodePractice\obj\Debug\CodePractice.exe
+c:\users\dwebber\documents\visual studio 2015\Projects\CodePractice\CodePractice\obj\Debug\CodePractice.pdb
+C:\Users\dwebber\Documents\Visual Studio 2015\Projects\CodePractice\CodePractice\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\dwebber\Documents\Visual Studio 2015\Projects\CodePractice\CodePractice\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\dwebber\Documents\Visual Studio 2015\Projects\CodePractice\CodePractice\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\dwebber\Documents\Visual Studio 2015\Projects\CodePractice\CodePractice\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\dwebber\Documents\Visual Studio 2015\Projects\CodePractice\CodePractice\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\dwebber\Documents\Visual Studio 2015\Projects\CodePractice\CodePractice\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\dwebber\Documents\Visual Studio 2015\Projects\CodePractice\CodePractice\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\dwebber\Documents\Visual Studio 2015\Projects\CodePractice\CodePractice\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\dwebber\Documents\Visual Studio 2015\Projects\CodePractice\CodePractice\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
